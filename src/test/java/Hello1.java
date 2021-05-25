@@ -4,5 +4,10 @@ public class Hello1 {
 
         System.out.println("Hi");
         System.out.println("Added");
+
+        System.out.println("Test Case 01");
+
+        // new line test case
+        // test case done
     }
 }
